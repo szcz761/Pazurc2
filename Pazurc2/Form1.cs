@@ -20,12 +20,15 @@ namespace Pazurc2
         public ChromiumWebBrowser chromeBrowserGG;
         private List<Tie> tiesEGB;
         private List<Tie> tiesGG;
+        bool auto =false;
+        Thread t;
         public Form1()
         {
-                InitializeComponent();
-                Cef.Initialize(new CefSettings());
+            InitializeComponent();
+            Cef.Initialize(new CefSettings());
             chromeBrowserGG = InitializeChromium("https://gg.bet/en/betting?page=1");
             chromeBrowserEGB = InitializeChromium("https://egb.com/play/simple_bets");
+            chromeBrowserGG.Focus();
         }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -77,10 +80,13 @@ namespace Pazurc2
         private void ParseButton_Click(object sender, EventArgs e)
         {
             tiesEGB = EGBParser.ParseTies(richTextBox1.Text);
+
+            tiesEGB = EGBParser.RepaireTies(tiesEGB);
             Console.WriteLine("==========EGB=========");
             foreach (var tie in tiesEGB)
                 Console.WriteLine(tie.Print());
             Console.WriteLine(tiesEGB.Count);
+
             richTextBox3.Text += "Znaleziono w EGB dobrych meczy: " + tiesEGB.Count + "\n";
 
             Console.WriteLine("==========GG=========");
@@ -92,13 +98,45 @@ namespace Pazurc2
         }
 
 
+        private void Automat(object sender, EventArgs e)
+        {
+            Task<string> a = chromeBrowserEGB.GetBrowser().MainFrame.GetSourceAsync();
+            Task<string> b = chromeBrowserGG.GetBrowser().MainFrame.GetSourceAsync();
+            var tEGB = EGBParser.ParseTies(a.Result);
+            tEGB = EGBParser.RepaireTies(tEGB);
+            var tGG = GGParser.ParseTies(b.Result);
+            Console.WriteLine("Znaleziono w EGB dobrych meczy: " + tEGB.Count + "\n");
+            Console.WriteLine("Znaleziono w GG dobrych meczy: " + tGG.Count + "\n");
+            var sureBets = FinderSureBets.FindSureBets(tEGB, tGG);
+            foreach (var sureBet in sureBets)
+            {
+                Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");
+                Console.WriteLine("Zysk: " + FinderSureBets.CalculateProfitPercent(sureBet[0], sureBet[1]));
+                Console.WriteLine("   ");
+                Console.WriteLine(sureBet[0].Print());
+                Console.WriteLine("-----VS-----");
+                Console.WriteLine(sureBet[1].Print());
+                Console.Beep();
+            }
+            Thread.Sleep(5000);
+        }
         private void ScrollDownButton_Click(object sender, EventArgs e)
         {
-
+            if (!auto)
+            {
+                t = new Thread(() => Automat(sender,e));
+                t.Start();
+                auto = true;
+            }
+            else
+            {
+                t.Abort();
+                auto = false;
+            }
         }
         private void CalculateButton_Click(object sender, EventArgs e)
         {
-            var sureBets = FinderSureBets.FindSureBets(tiesGG, tiesEGB);
+            var sureBets = FinderSureBets.FindSureBets(tiesEGB, tiesGG);
             foreach (var sureBet in sureBets)
             {
                 Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");

@@ -35,7 +35,7 @@ namespace Pazurc2
 
         public TeamWithOdds GetHigherOddsTeam()
         {
-            if (Odds1>Odds2)
+            if (Odds1 > Odds2)
                 return new TeamWithOdds() { Odds = Odds1, Team = Team1 };
             else
                 return new TeamWithOdds() { Odds = Odds2, Team = Team2 };
@@ -51,8 +51,27 @@ namespace Pazurc2
         public static bool IsTheSameTeams(Tie tie1, Tie tie2)
         {
             return
-                (tie1.Team1.ToLower() == tie2.Team1.ToLower() || tie1.Team1.ToLower() == tie2.Team2.ToLower()) &&
-                (tie1.Team2.ToLower() == tie2.Team1.ToLower() || tie1.Team2.ToLower() == tie2.Team2.ToLower());
+                (IsSimilarName(tie1.Team1, tie2.Team1) || IsSimilarName(tie1.Team1, tie2.Team2)) &&
+                (IsSimilarName(tie1.Team2, tie2.Team1) || IsSimilarName(tie1.Team2, tie2.Team2));
+        }
+
+        public static bool IsSimilarName(string team1, string team2)
+        {
+           // if (team1.ToLower().Contains("game") || team2.ToLower().Contains("game"))
+           //     return false;
+            var sentence1 = team1.ToLower().Split(' ');
+            var sentence2 = team2.ToLower().Split(' ');
+           
+            foreach (var word1 in sentence1)
+                foreach (var word2 in sentence2)
+                    if (word1 == word2 && IsNotCommonWords(word1))
+                        return true;
+            return false;
+        }
+
+        private static bool IsNotCommonWords(string word)
+        {
+            return (word != "team" && word != "gaming" && word != "esports");
         }
 
         public string Print()

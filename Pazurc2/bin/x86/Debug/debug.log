@@ -859,3 +859,791 @@ C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [1017/132507.462:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
 [1017/132507.468:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
 [1017/132507.478:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1017/140613.888:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1017/140614.126:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1017/140615.299:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1017/140615.623:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1017/140616.321:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.21312102763dc3078302.js (8)
+[1017/140616.394:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1017/140616.394:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1017/140620.385:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1017/140620.387:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1017/140620.394:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/121254.711:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/121254.858:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/121254.955:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/121255.399:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/121256.057:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/121256.060:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/121257.177:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/121846.221:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/130033.203:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/130033.509:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/130033.619:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/130034.064:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/130034.457:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/130034.457:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/130035.698:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/131050.857:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/131051.005:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/131051.105:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/131051.446:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/131052.171:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/131052.174:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/131053.141:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/134654.454:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/134654.741:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/134654.763:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/134655.278:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/134655.925:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/134655.927:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/134657.139:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/141419.786:ERROR:dns_config_service_win.cc(755)] DNS config watch failed.
+[1018/143402.805:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=11 (0)
+[1018/144045.039:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=11 (0)
+[1018/144655.307:INFO:CONSOLE(1)] "[async] close connection", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/144655.369:INFO:CONSOLE(1)] "[async] WebSocketSubject error", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/150019.706:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/150019.731:ERROR:cmd_buffer_helper.cc(139)] ContextResult::kFatalFailure: CommandBufferHelper::AllocateRingBuffer() failed
+[1018/150019.938:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/150019.941:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/150019.961:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/150020.010:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151019.775:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151019.884:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151021.076:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/151021.266:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151021.612:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/151022.770:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151022.770:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151426.466:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151427.518:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151427.518:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151504.634:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151504.684:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/151504.699:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151509.949:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151509.975:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151510.252:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151510.364:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/151511.027:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151511.027:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151512.098:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/151548.789:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151548.803:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/151548.871:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151821.046:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151821.200:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/151821.210:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/151822.412:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151823.467:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151823.467:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/151823.591:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/151926.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/151926.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/151926.125:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155411.964:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155412.203:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155412.324:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155412.526:INFO:CONSOLE(184)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://vars.hotjar.com') does not match the recipient window's origin ('null').", source: https://script.hotjar.com/modules-c7146390f4566fcf55a3e671d581705a.js (184)
+[1018/155413.171:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/155413.484:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155413.490:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155414.382:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/155511.641:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155511.644:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/155511.648:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155511.661:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155700.421:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/155700.424:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155700.681:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155700.709:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155701.784:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155701.794:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155702.562:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/155802.200:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155802.409:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155802.624:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155802.624:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/155803.772:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155803.773:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155804.684:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/155855.492:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155855.495:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/155855.517:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/155928.501:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155928.571:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155928.726:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/155928.827:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/155929.592:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155929.592:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/155931.463:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/160114.493:INFO:CONSOLE(1)] "[async] close connection", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160114.618:INFO:CONSOLE(1)] "[async] WebSocketSubject error", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160123.514:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160130.409:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160130.426:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160130.454:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/lato-regular-5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160130.699:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160130.711:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/lato-regular-089ab6d4a57e0e6c4dd3b681b6fd50a5184f1b902429d35e1227e52d6ccad1bd.ttf' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160130.831:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/160131.511:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160131.523:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160132.691:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/160154.399:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160154.402:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/160154.402:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1018/160154.404:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160154.406:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/160154.412:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160154.423:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160214.669:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/160215.170:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160215.491:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160216.188:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160217.392:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160217.392:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160217.921:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/160300.244:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160300.248:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160300.250:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160300.251:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/160332.141:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160332.435:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160332.645:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/160332.804:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160336.189:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/160337.815:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160337.818:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160426.813:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/160515.707:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160516.122:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/160516.125:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160516.930:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/160517.589:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160517.627:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/160519.937:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/160600.813:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/161259.331:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161259.912:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/161300.496:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161300.498:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161301.056:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/161306.449:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/161307.815:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/161430.309:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/161434.221:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/161820.028:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161820.062:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/161820.333:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/161820.861:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/161821.320:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161821.321:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/161824.154:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/161839.329:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/161839.336:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/161839.336:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1018/162247.942:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/162248.255:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/162248.262:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162248.481:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/162249.437:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162249.460:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162250.737:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/162352.702:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1018/162931.788:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-53edcfbfcf39d4f61cc4f32144c0203ab8248d1f55f5ea0126a43878aeb282fb.woff2' from origin 'https://egb.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/162931.875:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162932.089:INFO:CONSOLE(0)] "Access to Font at 'https://assets.egbcdn.net/assets/new_design/fonts/oswald-demibold-450c65ad4406140724c268c971308e607e123695cbaf4f98c5b2879389256c3d.woff' from origin 'https://egb.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://egabets.com' that is not equal to the supplied origin. Origin 'https://egb.com' is therefore not allowed access.", source: https://egb.com/play/simple_bets (0)
+[1018/162932.946:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/162933.162:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162933.163:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/162935.570:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.b1553e39772dcc21ad6f.js (8)
+[1018/163021.149:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 9
+[1018/182203.127:INFO:CONSOLE(485)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1538980283511/recaptcha__en.js (485)
+[1018/182210.094:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/182211.106:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1018/182211.172:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/182211.176:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1018/182344.907:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075016.868:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/075019.817:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075020.492:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/075021.291:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075021.292:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075057.664:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075058.871:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075058.888:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075146.113:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075146.114:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/075146.114:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075146.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/075146.124:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075146.129:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075237.836:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/075238.300:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075239.522:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075239.525:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075240.736:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/075530.928:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/075659.533:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075659.830:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/075700.685:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075700.697:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/075701.899:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/080813.158:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/080832.130:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/080832.275:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/080833.419:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/080833.423:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/080835.348:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/080918.272:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/083451.402:ERROR:dns_config_service_win.cc(755)] DNS config watch failed.
+[1019/091447.603:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/091448.196:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/091448.613:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1019/091448.746:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/091448.746:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/091452.906:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/091748.480:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/091748.509:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/091748.598:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/092529.405:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092529.674:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/092530.715:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092530.716:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092532.463:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/092608.756:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/092608.783:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/092608.783:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/092822.135:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092822.655:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/092823.507:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092823.510:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/092825.835:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/093104.882:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/093104.888:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/093105.086:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/093458.016:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093544.492:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093545.137:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/093545.667:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093545.695:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093546.769:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/093552.083:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093553.168:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093553.170:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093640.504:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/093640.569:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/093821.799:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093822.205:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/093823.020:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093823.022:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/093824.830:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/093840.981:INFO:CONSOLE(0)] "WebSocket connection to 'wss://node.yhelperinfo.net/socket.io/?EIO=3&transport=websocket' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1019/095353.233:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/095353.239:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/095353.239:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/095429.549:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/095430.201:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/095430.864:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/095430.867:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/095433.609:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/095837.609:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=12 (0)
+[1019/100625.768:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=12 (0)
+[1019/100854.910:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/104704.118:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104704.201:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/104705.240:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104705.241:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104708.499:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/104751.080:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/104751.083:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/104751.090:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/104751.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/104857.251:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104857.947:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/104858.697:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104858.702:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/104902.680:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/110624.120:ERROR:command_buffer_proxy_impl.cc(133)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[1019/110624.206:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1019/110624.207:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/110624.210:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/110624.206:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/110624.211:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/112003.898:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/112004.578:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/112005.144:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/112005.145:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/112008.566:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/112419.297:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/112419.310:ERROR:cmd_buffer_helper.cc(139)] ContextResult::kFatalFailure: CommandBufferHelper::AllocateRingBuffer() failed
+[1019/112419.320:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/112419.427:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/112419.429:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/112419.452:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/120336.718:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120337.848:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/120338.123:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120338.127:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120338.904:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/120444.806:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/120726.754:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120727.309:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/120727.938:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120727.939:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/120728.546:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/120948.009:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/120948.027:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/120948.155:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/121131.933:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121132.786:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/121133.081:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121133.082:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121134.556:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/121413.858:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/121724.421:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121724.791:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/121725.638:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121725.639:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/121726.873:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/121924.413:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/121924.416:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/121924.438:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/122019.232:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/122019.253:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/122020.378:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/122020.381:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/122022.092:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/123202.645:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.645:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.645:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.646:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.646:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.646:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.646:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.647:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.647:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.647:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.648:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=3 (0)
+[1019/123202.826:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 169
+[1019/123203.204:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123509.341:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/123509.752:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123510.906:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123510.920:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123512.617:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/123626.085:ERROR:broker_win.cc(57)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[1019/123626.092:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.092:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.092:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.092:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.092:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.094:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.094:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.094:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.094:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.094:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.094:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.094:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.095:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.095:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.095:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.095:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.095:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.095:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.095:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.095:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.095:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.095:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.096:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.096:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.097:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.097:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.097:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.097:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.097:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.097:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.098:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.098:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.098:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.098:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.098:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.098:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.099:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.099:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.099:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.099:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.099:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.099:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.100:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.100:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.100:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.100:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.100:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.100:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.101:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.101:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.102:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.102:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.102:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.102:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.102:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.102:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.103:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.103:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.103:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.103:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.103:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.103:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.103:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.103:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.103:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.103:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.104:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.104:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.105:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.105:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.106:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.106:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.106:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.106:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.106:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.106:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.106:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.106:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.106:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.106:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.107:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.107:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.109:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.109:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.109:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.109:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.109:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.109:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.109:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.109:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.109:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.109:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.110:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.110:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.110:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.110:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.110:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.110:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.111:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.111:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.111:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.111:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.111:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.111:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.111:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.111:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.111:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.112:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.112:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.112:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.112:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.112:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.112:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.112:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.113:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.113:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.113:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.113:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.113:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.113:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.113:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.113:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.114:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.114:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.115:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.115:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.116:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.116:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.116:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.116:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.116:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.116:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.116:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.116:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.116:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.116:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.117:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.117:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.117:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.117:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.117:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.117:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.117:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.117:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.117:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.118:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.118:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.119:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.119:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.120:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.120:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.121:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.121:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.122:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.122:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.122:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.122:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.122:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.122:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.123:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.123:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.123:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.123:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.123:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.123:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.124:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.124:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.124:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.124:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.124:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.124:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.125:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.125:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.125:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.125:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.125:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.125:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.126:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.126:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.126:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.126:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.126:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.126:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.127:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.127:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.127:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.127:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.127:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.127:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.127:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123626.127:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/123626.149:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/123633.761:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123633.995:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/123635.152:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123635.153:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/123637.051:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/124527.223:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/124527.234:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/124527.272:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/124527.480:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/124832.868:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/124833.292:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/124834.272:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/124834.274:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/124836.645:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/125058.897:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/125058.922:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/125058.922:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/125106.382:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/125107.591:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/125107.593:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/125107.977:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/125111.946:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/125449.263:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/125449.280:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/125449.402:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/125449.572:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/131409.540:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/131410.215:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/131410.876:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/131410.887:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/131412.888:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/131854.504:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/131854.524:ERROR:cmd_buffer_helper.cc(139)] ContextResult::kFatalFailure: CommandBufferHelper::AllocateRingBuffer() failed
+[1019/131854.830:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/131854.829:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/131854.832:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/131854.836:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/132236.405:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132237.516:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/132237.530:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132237.544:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132239.808:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/132245.819:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 1
+[1019/132245.820:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 9
+[1019/132245.820:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
+[1019/132246.001:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/132246.004:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/132246.013:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/132246.012:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/132303.533:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132303.545:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/132304.734:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132304.734:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/132306.063:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/132323.063:INFO:CONSOLE(0)] "WebSocket connection to 'wss://node.yhelperinfo.net/socket.io/?EIO=3&transport=websocket' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/?page=11 (0)
+[1019/132418.402:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/132418.414:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/132418.473:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/133405.711:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/133405.946:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/133406.875:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/133406.922:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/133406.926:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/133546.641:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/134756.850:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/134757.960:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/134758.031:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/134758.032:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/134800.364:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/134831.467:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/134831.476:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/134831.477:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/134831.478:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/134957.365:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/134957.654:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/134958.665:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/134958.666:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/135001.713:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/135114.102:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/135118.702:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/140023.530:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/140024.786:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/140024.940:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140025.996:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140025.996:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140059.596:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/140214.879:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140214.885:INFO:CONSOLE(486)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1539585139095/recaptcha__en.js (486)
+[1019/140216.124:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140216.125:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=9b7c1080 (1)
+[1019/140218.037:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.ee3e041256c3328bfb1b.js (8)
+[1019/140828.585:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1019/140828.599:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1019/140828.614:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)

@@ -9,6 +9,22 @@ namespace Pazurc2
 {
     static class EGBParser
     {
+        static public List<Tie> RepaireTies(List<Tie> Ties)
+        {
+            for (int i = 0; i < Ties.Count; i++)
+            {
+                Ties[i].Team1 = Ties[i].Team1.ToLower();
+                Ties[i].Team2 = Ties[i].Team2.ToLower();
+                if (Ties[i].Team1.Contains("game") || Ties[i].Time < DateTime.Now.AddHours(-4))
+                    Ties.RemoveAt(i--);
+                else if (Ties[i].Team1.Contains("happy guys"))
+                    Ties[i].Team1 = "happyguys";
+                else if (Ties[i].Team2.Contains("happy guys"))
+                    Ties[i].Team2 = "happyguys";
+            }
+            return Ties;
+        }
+
         static public List<Tie> ParseTies(string page)
         {
             HtmlDocument doc = new HtmlDocument();
@@ -49,10 +65,7 @@ namespace Pazurc2
             if (HTMLDate == null || HTMLDate.FirstChild.InnerHtml.Length != 5)
                 throw new ArgumentException("Cant parse all information");
 
-            DateTime date = DateTime.Parse(HTMLDate.FirstChild.InnerHtml + " " + DateTime.Now.Year + " " + HTMLDate.LastChild.InnerHtml);
-
-            if (date < DateTime.Now)
-                throw new ArgumentException("This match was alerady started");
+            DateTime date = DateTime.Parse(HTMLDate.FirstChild.InnerHtml + " " + DateTime.Now.Year + " " + HTMLDate.LastChild.InnerHtml);          
         
             return date;
         }

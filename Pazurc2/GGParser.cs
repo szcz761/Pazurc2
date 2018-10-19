@@ -10,9 +10,9 @@ namespace Pazurc2
 {
     static class GGParser
     {
+
         static public List<Tie> ParseTies(string page)
         {
-
             HtmlDocument doc = new HtmlDocument();
             doc.LoadHtml(page);
             var ties = new List<Tie>();
@@ -70,7 +70,15 @@ namespace Pazurc2
 
         static string ParseEvent(HtmlNode node)
         {
-            return node.QuerySelector("div.__app-TournamentLogo-tournament-logo").GetAttributeValue("title", "");
+            try
+            {
+                return node.QuerySelector("div.__app-TournamentLogo-tournament-logo").GetAttributeValue("title", "");
+            }
+            catch (Exception e)
+            {
+                var nan = node.QuerySelector("span.tournamentLogo__line-clamp___2yZEI");
+                return nan.InnerText;
+            }
         }
 
         static string ParseTeam1(HtmlNode node)
