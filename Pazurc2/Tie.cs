@@ -52,7 +52,8 @@ namespace Pazurc2
         {
             return
                 (IsSimilarName(tie1.Team1, tie2.Team1) || IsSimilarName(tie1.Team1, tie2.Team2)) &&
-                (IsSimilarName(tie1.Team2, tie2.Team1) || IsSimilarName(tie1.Team2, tie2.Team2));
+                (IsSimilarName(tie1.Team2, tie2.Team1) || IsSimilarName(tie1.Team2, tie2.Team2)) &&
+                tie1.Time.Date == tie2.Time.Date;
         }
 
         public static bool IsSimilarName(string team1, string team2)
@@ -71,7 +72,7 @@ namespace Pazurc2
 
         private static bool IsNotCommonWords(string word)
         {
-            return (word != "team" && word != "gaming" && word != "esports");
+            return (word != "team" && word != "gaming" && word != "esports" && word != "academy");
         }
 
         public string Print()

@@ -13,3 +13,6 @@
 [1017/140556.253:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
 [1017/140556.362:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
 [1017/140556.362:ERROR:gpu_process_transport_factory.cc(1027)] Lost UI shared context.
+[1105/133353.836:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1105/133354.146:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1105/133354.148:ERROR:gpu_process_transport_factory.cc(1027)] Lost UI shared context.

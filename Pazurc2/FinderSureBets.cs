@@ -23,7 +23,7 @@ namespace Pazurc2
                         ostatni = true;
                         ++i;
                         //Console.WriteLine("Przeliczono zysk z meczy: \n\n" + tie1.Print());
-                        if (CalculateProfitPercent(tie1, tie2) > -0.5)
+                        if (CalculateProfitPercent(tie1, tie2) > -0.1)
                             SureBets.Add(new Tie[] { tie1, tie2 });
                     }
                if(!ostatni)

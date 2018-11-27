@@ -100,25 +100,28 @@ namespace Pazurc2
 
         private void Automat(object sender, EventArgs e)
         {
-            Task<string> a = chromeBrowserEGB.GetBrowser().MainFrame.GetSourceAsync();
-            Task<string> b = chromeBrowserGG.GetBrowser().MainFrame.GetSourceAsync();
-            var tEGB = EGBParser.ParseTies(a.Result);
-            tEGB = EGBParser.RepaireTies(tEGB);
-            var tGG = GGParser.ParseTies(b.Result);
-            Console.WriteLine("Znaleziono w EGB dobrych meczy: " + tEGB.Count + "\n");
-            Console.WriteLine("Znaleziono w GG dobrych meczy: " + tGG.Count + "\n");
-            var sureBets = FinderSureBets.FindSureBets(tEGB, tGG);
-            foreach (var sureBet in sureBets)
+            while (true)
             {
-                Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");
-                Console.WriteLine("Zysk: " + FinderSureBets.CalculateProfitPercent(sureBet[0], sureBet[1]));
-                Console.WriteLine("   ");
-                Console.WriteLine(sureBet[0].Print());
-                Console.WriteLine("-----VS-----");
-                Console.WriteLine(sureBet[1].Print());
-                Console.Beep();
+                Task<string> a = chromeBrowserEGB.GetBrowser().MainFrame.GetSourceAsync();
+                Task<string> b = chromeBrowserGG.GetBrowser().MainFrame.GetSourceAsync();
+                var tEGB = EGBParser.ParseTies(a.Result);
+                tEGB = EGBParser.RepaireTies(tEGB);
+                var tGG = GGParser.ParseTies(b.Result);
+                Console.WriteLine("Znaleziono w EGB dobrych meczy: " + tEGB.Count + "\n");
+                Console.WriteLine("Znaleziono w GG dobrych meczy: " + tGG.Count + "\n");
+                var sureBets = FinderSureBets.FindSureBets(tEGB, tGG);
+                foreach (var sureBet in sureBets)
+                {
+                    Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");
+                    Console.WriteLine("Zysk: " + FinderSureBets.CalculateProfitPercent(sureBet[0], sureBet[1]));
+                    Console.WriteLine("   ");
+                    Console.WriteLine(sureBet[0].Print());
+                    Console.WriteLine("-----VS-----");
+                    Console.WriteLine(sureBet[1].Print());
+                    Console.Beep();
+                }
+                Thread.Sleep(50000);
             }
-            Thread.Sleep(5000);
         }
         private void ScrollDownButton_Click(object sender, EventArgs e)
         {
