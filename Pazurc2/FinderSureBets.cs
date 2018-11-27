@@ -10,7 +10,7 @@ namespace Pazurc2
     {
         
 
-        public static List<Tie[]> FindSureBets(List<Tie> page1, List<Tie> page2)
+        public static List<Tie[]> FindSureBets(List<Tie> page1, List<Tie> page2, double sureBetValue)
         {
             List<Tie[]> SureBets = new List<Tie[]>();
             int i=0;
@@ -22,8 +22,7 @@ namespace Pazurc2
                     {
                         ostatni = true;
                         ++i;
-                        //Console.WriteLine("Przeliczono zysk z meczy: \n\n" + tie1.Print());
-                        if (CalculateProfitPercent(tie1, tie2) > -0.1)
+                        if (CalculateProfitPercent(tie1, tie2) > sureBetValue)
                             SureBets.Add(new Tie[] { tie1, tie2 });
                     }
                if(!ostatni)
@@ -32,7 +31,6 @@ namespace Pazurc2
                     ostatni = false;
                }
             }
-
             Console.WriteLine("Przeliczono zysk z meczy: " + i);
             return SureBets;
         }

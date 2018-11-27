@@ -98,7 +98,7 @@ namespace Pazurc2
         }
 
 
-        private void Automat(object sender, EventArgs e)
+        private void Automat(object sender, EventArgs e, double sureBetValue, bool beep, int timeSleep, List<Tuple<string,string>> checkedSure)
         {
             while (true)
             {
@@ -109,25 +109,35 @@ namespace Pazurc2
                 var tGG = GGParser.ParseTies(b.Result);
                 Console.WriteLine("Znaleziono w EGB dobrych meczy: " + tEGB.Count + "\n");
                 Console.WriteLine("Znaleziono w GG dobrych meczy: " + tGG.Count + "\n");
-                var sureBets = FinderSureBets.FindSureBets(tEGB, tGG);
+                var sureBets = FinderSureBets.FindSureBets(tEGB, tGG, sureBetValue);
                 foreach (var sureBet in sureBets)
                 {
+                    if (checkedSure.Count !=0 && checkedSure.Contains(new Tuple<string,string>(sureBet[0].Team1, sureBet[0].Team2)))
+                        continue;
                     Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");
                     Console.WriteLine("Zysk: " + FinderSureBets.CalculateProfitPercent(sureBet[0], sureBet[1]));
                     Console.WriteLine("   ");
                     Console.WriteLine(sureBet[0].Print());
                     Console.WriteLine("-----VS-----");
                     Console.WriteLine(sureBet[1].Print());
-                    Console.Beep();
+                    if(beep)
+                        Console.Beep();
                 }
-                Thread.Sleep(50000);
+                Thread.Sleep(timeSleep);
             }
         }
         private void ScrollDownButton_Click(object sender, EventArgs e)
         {
             if (!auto)
             {
-                t = new Thread(() => Automat(sender,e));
+                ScrollDownButton.Text = "Automat ON";
+                List<Tuple<string, string>> checkedSure = new List<Tuple<string, string>>();
+                //string[] array = ;
+
+                foreach (string line in SureChecked.Text.Split("\r\n".ToCharArray(), StringSplitOptions.RemoveEmptyEntries))
+                    if(line.Contains("&"))
+                        checkedSure.Add(new Tuple<string, string>(line.Split('&')[0], line.Split('&')[1]));
+                t = new Thread(() => Automat(sender, e, double.Parse(MinScore.Text), Beep.Checked, int.Parse(TimeSleepS.Text) * 1000, checkedSure));
                 t.Start();
                 auto = true;
             }
@@ -135,11 +145,12 @@ namespace Pazurc2
             {
                 t.Abort();
                 auto = false;
+                ScrollDownButton.Text = "Automat OFF";
             }
         }
         private void CalculateButton_Click(object sender, EventArgs e)
         {
-            var sureBets = FinderSureBets.FindSureBets(tiesEGB, tiesGG);
+            var sureBets = FinderSureBets.FindSureBets(tiesEGB, tiesGG, -0.1);
             foreach (var sureBet in sureBets)
             {
                 Console.WriteLine("----------------ZNALEZIONOI SUREBET-------------------");
@@ -158,6 +169,16 @@ namespace Pazurc2
             richTextBox3.Text += sureBet[0].Print() + "\n";
             richTextBox3.Text += "-----VS-----\n";
             richTextBox3.Text += sureBet[1].Print() + "\n\n";
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

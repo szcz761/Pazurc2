@@ -36,13 +36,17 @@
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.CalculateButton = new System.Windows.Forms.Button();
             this.richTextBox3 = new System.Windows.Forms.RichTextBox();
+            this.Beep = new System.Windows.Forms.CheckBox();
+            this.MinScore = new System.Windows.Forms.TextBox();
+            this.TimeSleepS = new System.Windows.Forms.TextBox();
+            this.SureChecked = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // GetHTMLButton
             // 
-            this.GetHTMLButton.Location = new System.Drawing.Point(12, 47);
+            this.GetHTMLButton.Location = new System.Drawing.Point(12, 258);
             this.GetHTMLButton.Name = "GetHTMLButton";
-            this.GetHTMLButton.Size = new System.Drawing.Size(217, 23);
+            this.GetHTMLButton.Size = new System.Drawing.Size(204, 23);
             this.GetHTMLButton.TabIndex = 0;
             this.GetHTMLButton.Text = "Get HTML";
             this.GetHTMLButton.UseVisualStyleBackColor = true;
@@ -50,7 +54,7 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 76);
+            this.richTextBox1.Location = new System.Drawing.Point(12, 287);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(75, 154);
             this.richTextBox1.TabIndex = 3;
@@ -58,9 +62,9 @@
             // 
             // ParseButton
             // 
-            this.ParseButton.Location = new System.Drawing.Point(12, 236);
+            this.ParseButton.Location = new System.Drawing.Point(12, 447);
             this.ParseButton.Name = "ParseButton";
-            this.ParseButton.Size = new System.Drawing.Size(217, 23);
+            this.ParseButton.Size = new System.Drawing.Size(204, 23);
             this.ParseButton.TabIndex = 4;
             this.ParseButton.Text = "Parse";
             this.ParseButton.UseVisualStyleBackColor = true;
@@ -70,15 +74,15 @@
             // 
             this.ScrollDownButton.Location = new System.Drawing.Point(12, 18);
             this.ScrollDownButton.Name = "ScrollDownButton";
-            this.ScrollDownButton.Size = new System.Drawing.Size(217, 23);
+            this.ScrollDownButton.Size = new System.Drawing.Size(204, 23);
             this.ScrollDownButton.TabIndex = 6;
-            this.ScrollDownButton.Text = "Scroll Down";
+            this.ScrollDownButton.Text = "Automat off";
             this.ScrollDownButton.UseVisualStyleBackColor = true;
             this.ScrollDownButton.Click += new System.EventHandler(this.ScrollDownButton_Click);
             // 
             // richTextBox2
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(154, 76);
+            this.richTextBox2.Location = new System.Drawing.Point(141, 287);
             this.richTextBox2.Name = "richTextBox2";
             this.richTextBox2.Size = new System.Drawing.Size(75, 154);
             this.richTextBox2.TabIndex = 7;
@@ -86,9 +90,9 @@
             // 
             // CalculateButton
             // 
-            this.CalculateButton.Location = new System.Drawing.Point(12, 265);
+            this.CalculateButton.Location = new System.Drawing.Point(12, 476);
             this.CalculateButton.Name = "CalculateButton";
-            this.CalculateButton.Size = new System.Drawing.Size(217, 23);
+            this.CalculateButton.Size = new System.Drawing.Size(204, 23);
             this.CalculateButton.TabIndex = 8;
             this.CalculateButton.Text = "Find Sure Bets";
             this.CalculateButton.UseVisualStyleBackColor = true;
@@ -96,17 +100,59 @@
             // 
             // richTextBox3
             // 
-            this.richTextBox3.Location = new System.Drawing.Point(12, 294);
+            this.richTextBox3.Location = new System.Drawing.Point(12, 505);
             this.richTextBox3.Name = "richTextBox3";
-            this.richTextBox3.Size = new System.Drawing.Size(217, 190);
+            this.richTextBox3.Size = new System.Drawing.Size(204, 190);
             this.richTextBox3.TabIndex = 9;
             this.richTextBox3.Text = "";
+            // 
+            // Beep
+            // 
+            this.Beep.AutoSize = true;
+            this.Beep.Checked = true;
+            this.Beep.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.Beep.Location = new System.Drawing.Point(165, 49);
+            this.Beep.Name = "Beep";
+            this.Beep.Size = new System.Drawing.Size(51, 17);
+            this.Beep.TabIndex = 10;
+            this.Beep.Text = "Beep";
+            this.Beep.UseVisualStyleBackColor = true;
+            this.Beep.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // MinScore
+            // 
+            this.MinScore.Location = new System.Drawing.Point(12, 47);
+            this.MinScore.Name = "MinScore";
+            this.MinScore.Size = new System.Drawing.Size(75, 20);
+            this.MinScore.TabIndex = 11;
+            this.MinScore.Text = "-0,1";
+            this.MinScore.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // TimeSleepS
+            // 
+            this.TimeSleepS.Location = new System.Drawing.Point(93, 47);
+            this.TimeSleepS.Name = "TimeSleepS";
+            this.TimeSleepS.Size = new System.Drawing.Size(66, 20);
+            this.TimeSleepS.TabIndex = 12;
+            this.TimeSleepS.Text = "50";
+            // 
+            // SureChecked
+            // 
+            this.SureChecked.Location = new System.Drawing.Point(12, 73);
+            this.SureChecked.Name = "SureChecked";
+            this.SureChecked.Size = new System.Drawing.Size(204, 96);
+            this.SureChecked.TabIndex = 13;
+            this.SureChecked.Text = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(247, 697);
+            this.Controls.Add(this.SureChecked);
+            this.Controls.Add(this.TimeSleepS);
+            this.Controls.Add(this.MinScore);
+            this.Controls.Add(this.Beep);
             this.Controls.Add(this.richTextBox3);
             this.Controls.Add(this.CalculateButton);
             this.Controls.Add(this.richTextBox2);
@@ -117,6 +163,7 @@
             this.Name = "Form1";
             this.Text = "7";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -130,6 +177,10 @@
         private System.Windows.Forms.RichTextBox richTextBox2;
         private System.Windows.Forms.Button CalculateButton;
         private System.Windows.Forms.RichTextBox richTextBox3;
+        private System.Windows.Forms.CheckBox Beep;
+        private System.Windows.Forms.TextBox MinScore;
+        private System.Windows.Forms.TextBox TimeSleepS;
+        private System.Windows.Forms.RichTextBox SureChecked;
     }
 }
 

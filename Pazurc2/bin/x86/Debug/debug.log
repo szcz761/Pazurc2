@@ -3068,3 +3068,232 @@ C:\fakepath(57,23-43): warning X3571: pow(f, e) will not work for negative f, us
 [1127/163524.888:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
 [1127/163524.898:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
 [1127/163551.303:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1127/195348.955:ERROR:backend_impl.cc(1064)] Critical error found -8
+[1127/195348.970:WARNING:storage_block-inl.h(131)] Failed data load.
+[1127/195348.970:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+[1127/195348.970:ERROR:entry_impl.cc(966)] Failed to save user data
+[1127/195350.261:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+[1127/195352.191:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/195352.669:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195352.669:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195352.676:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195352.676:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195352.785:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195352.785:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195352.785:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195352.785:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195352.988:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/195353.944:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195354.961:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195355.317:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195355.359:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195357.911:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/195404.965:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1127/195433.170:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195442.561:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/195442.570:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195442.570:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195442.570:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195442.571:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195442.607:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195442.607:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195442.607:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195442.607:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195442.714:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195442.715:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195442.715:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195442.715:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195442.856:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/195443.201:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195444.911:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1127/195444.895:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195444.912:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195446.298:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/195553.375:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/195553.390:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195553.529:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195553.529:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1127/195704.287:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/195704.714:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195705.000:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/195705.016:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195705.016:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195705.017:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195705.017:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195705.061:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195705.062:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195705.062:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195705.062:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195705.074:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195705.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195705.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195705.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195705.745:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195705.925:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195705.927:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195707.006:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195708.560:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195708.742:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/195710.728:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195713.329:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195716.761:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195726.129:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195733.667:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/195736.742:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/195739.912:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/195739.913:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195739.913:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195739.913:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195739.913:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195739.913:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/195758.017:ERROR:block_files.cc(471)] Failed to open GPUCache\data_3
+[1127/195758.055:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1127/195758.128:ERROR:cache_util.cc(134)] Unable to move cache folder GPUCache to old_GPUCache_000
+[1127/195758.163:ERROR:disk_cache.cc(169)] Unable to create cache
+[1127/195758.265:ERROR:shader_disk_cache.cc(600)] Shader Cache Creation failed: -2
+[1127/195805.284:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/195805.304:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195805.304:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195805.304:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195805.304:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195805.342:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195805.342:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195805.342:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195805.342:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195805.355:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195805.355:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195805.355:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195805.355:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195805.614:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/195806.317:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195806.820:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1127/195807.663:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195807.673:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195809.781:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/195847.154:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/195847.287:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/195915.563:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195916.148:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/195916.161:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195916.161:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195916.161:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195916.161:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195916.204:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195916.204:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195916.204:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195916.204:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195916.218:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/195916.218:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/195916.218:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/195916.219:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/195917.084:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/195917.328:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195917.353:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/195918.196:WARNING:paced_sender.cc(261)] Elapsed time (2014 ms) longer than expected, limiting to 2000 ms
+[1127/195918.696:WARNING:paced_sender.cc(261)] Elapsed time (2514 ms) longer than expected, limiting to 2000 ms
+[1127/195919.197:WARNING:paced_sender.cc(261)] Elapsed time (3016 ms) longer than expected, limiting to 2000 ms
+[1127/195942.949:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200212.968:ERROR:block_files.cc(471)] Failed to open GPUCache\data_3
+[1127/200213.026:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1127/200213.065:ERROR:cache_util.cc(134)] Unable to move cache folder GPUCache to old_GPUCache_000
+[1127/200213.091:ERROR:disk_cache.cc(169)] Unable to create cache
+[1127/200213.150:ERROR:shader_disk_cache.cc(600)] Shader Cache Creation failed: -2
+[1127/200221.000:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/200221.024:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200221.024:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200221.024:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200221.024:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200221.059:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200221.059:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200221.059:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200221.059:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200221.076:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200221.076:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200221.076:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200221.076:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200222.039:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200222.217:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/200224.097:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200224.116:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200225.148:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1127/200350.078:INFO:child_thread_impl.cc(821)] ChildThreadImpl::EnsureConnected()
+[1127/200444.959:ERROR:broker_win.cc(57)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[1127/200444.960:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200444.960:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200444.960:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200444.960:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200444.961:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200444.990:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200510.167:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/200510.180:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200510.181:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200510.181:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200510.181:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200510.219:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200510.219:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200510.219:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200510.219:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200510.477:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200510.477:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200510.477:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200510.477:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200510.939:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/200511.188:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200513.243:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200513.245:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200515.296:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/200754.536:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200754.557:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/200902.054:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/200902.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200902.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200902.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200902.075:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200902.116:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200902.116:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200902.116:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200902.116:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200902.131:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/200902.131:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/200902.131:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/200902.131:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/200902.918:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200903.061:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/200904.008:INFO:CONSOLE(0)] "WebSocket connection to 'wss://betting-public-gql.gin.bet/graphql' failed: WebSocket is closed before the connection is established.", source: https://gg.bet/en/betting/ (0)
+[1127/200904.271:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200904.304:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/200907.450:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/201627.466:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/201627.472:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
+[1127/201627.472:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1127/201752.891:INFO:CONSOLE(510)] "reCAPTCHA couldn't find user-provided function: recaptchaInit", source: https://www.gstatic.com/recaptcha/api2/v1542004393985/recaptcha__en.js (510)
+[1127/201756.041:INFO:CONSOLE(1)] ""app" entry successfully handled queued command: ginit("init")", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/201756.373:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[1127/201756.393:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/201756.393:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/201756.393:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/201756.393:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/201756.420:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/201756.420:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/201756.421:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/201756.421:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/201756.432:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 104 to 127
+[1127/201756.432:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 106 to 125
+[1127/201756.432:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 103 to 124
+[1127/201756.433:WARNING:mediasession.cc(356)] Duplicate id found. Reassigning from 105 to 123
+[1127/201756.604:INFO:CONSOLE(8)] "Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to http://goto.zendesk.com/embeddable-legal-notices", source: https://static.zdassets.com/web_widget/latest/web_widget.1e52ede508bfa5dd665f.js (8)
+[1127/201757.967:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/201757.974:INFO:CONSOLE(1)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://ggbetv2.gin.bet/vendor.js?v=316411ae (1)
+[1127/201847.142:ERROR:broker_win.cc(134)] Error sending sync broker message: Trwa zamykanie potoku. (0xE8)
